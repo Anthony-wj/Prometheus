@@ -1,6 +1,6 @@
 # Prometheus组件
 
-![Prometheus架构](D:\code\prometheus\images\prometheus_architecture.png)
+![Prometheus架构](https://raw.githubusercontent.com/Anthony-wj/Prometheus/master/images/prometheus_architecture.png)
 
 #### Prometheus Server
 
